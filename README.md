@@ -13,8 +13,7 @@ A self-contained guide explaining the input, preprocessing, model setup, trainin
 5. [Model Setup & Full Fine-Tuning](#5-model-setup--full-fine-tuning)
 6. [Training](#6-training)
 7. [Output & Evaluation](#7-output--evaluation)
-8. [Results](#8-results)
-9. [Submission](#9-submission)
+8. [Run Scripts](#8-scripts)
 
 ---
 
@@ -367,5 +366,5 @@ print(result)
 ```
 
 
-## 8. Submission
+## 8. Run Scripts
 Running Scripts and code is included in the repository for example running Llama on GLUE dataset script: sh run_llama_glue.sh --seed 42 --dataset mrpc
